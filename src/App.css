@@ -1,0 +1,6 @@
+.error{
+  display: grid;
+  place-items: center;
+  color: red;
+  margin-top: 200px;
+}

@@ -1,0 +1,271 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Managing Components with Modeler ",
+      "isbn": "1932394524k-e",
+      "pageCount": 10,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal11.jpg",
+      "status": "PUBLISH",
+      "author": "Vikram Goyal ",
+      "price": 100,
+      "available": "51"
+    },
+    {
+      "id": 2,
+      "title": "Handling Protocols with the Net Component",
+      "isbn": "1932394524c-e",
+      "pageCount": 10,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal3.jpg",
+      "status": "PUBLISH",
+      "author": "Vikram Goyal",
+      "price": 100,
+      "available": 73
+    },
+    {
+      "id": 3,
+      "title": "iOS in Practice",
+      "isbn": "1617291269",
+      "pageCount": 325,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cahill.jpg",
+      "status": "PUBLISH",
+      "author": "Bear P. Cahill",
+      "price": 100,
+      "available": 39
+    },
+    {
+      "id": 4,
+      "title": "Spring Roo in Action",
+      "isbn": "193518296X",
+      "pageCount": 500,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rimple.jpg",
+      "status": "PUBLISH",
+      "author": "Srini Penchikala",
+      "price": 100,
+      "available": 13
+    },
+    {
+      "id": 5,
+      "title": "SOA Governance in Action",
+      "isbn": "1617290270",
+      "pageCount": 10,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dirksen.jpg",
+      "status": "PUBLISH",
+      "author": "Jos Dirksen",
+      "price": 100,
+      "available": 86
+    },
+    {
+      "id": 6,
+      "title": "Validating Data with Validator",
+      "isbn": "1932394524f-e",
+      "pageCount": 10,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal6.jpg",
+      "status": "PUBLISH",
+      "author": "Vikram Goyal",
+      "price": 100,
+      "available": 35
+    },
+    {
+      "id": 7,
+      "title": "Specification by Example",
+      "isbn": "1617290084",
+      "pageCount": 0,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/adzic.jpg",
+      "status": "PUBLISH",
+      "author": "Gojko Adzic",
+      "price": 100,
+      "available": 43
+    },
+    {
+      "id": 8,
+      "title": "Command-line Processing with CLI",
+      "isbn": "1932394524l-e",
+      "pageCount": 10,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal12.jpg",
+      "status": "PUBLISH",
+      "author": "Vikram Goyal",
+      "price": 100,
+      "available": 73
+    },
+    {
+      "id": 9,
+      "title": "Understanding and Using Chain",
+      "isbn": "1932394524m-e",
+      "pageCount": 10,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal13.jpg",
+      "status": "PUBLISH",
+      "author": "Vikram Goyal",
+      "price": 100,
+      "available": 56
+    },
+    {
+      "id": 10,
+      "title": "Working with the Logging and Discovery Components",
+      "isbn": "1932394524n-e",
+      "pageCount": 10,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal14.jpg",
+      "status": "PUBLISH",
+      "author": "Vikram Goyal",
+      "price": 100,
+      "available": 43
+    },
+    {
+      "id": 11,
+      "title": "Uploading files with FileUpload",
+      "isbn": "1932394524b-e",
+      "pageCount": 10,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal2.jpg",
+      "status": "PUBLISH",
+      "author": "Vikram Goyal",
+      "price": 100,
+      "available": 77
+    },
+    {
+      "id": 12,
+      "title": "Hibernate in Action (Chinese Edition)",
+      "pageCount": 400,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bauer-cn.jpg",
+      "status": "PUBLISH",
+      "author": "Christian Bauer",
+      "price": 100,
+      "available": 2
+    },
+    {
+      "id": 13,
+      "title": "XML Parsing with Digester",
+      "isbn": "1932394524d-e",
+      "pageCount": 10,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal4.jpg",
+      "status": "PUBLISH",
+      "author": "Vikram Goyal",
+      "price": 100,
+      "available": 34
+    },
+    {
+      "id": 14,
+      "title": "JXPath and Betwixt: Working with XML",
+      "isbn": "1932394524e-e",
+      "pageCount": 10,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal5.jpg",
+      "status": "PUBLISH",
+      "author": "Vikram Goyal",
+      "price": 100,
+      "available": 22
+    },
+    {
+      "id": 15,
+      "title": "Enhancing Java Core Libraries with Collections",
+      "isbn": "1932394524g-e",
+      "pageCount": 10,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal7.jpg",
+      "status": "PUBLISH",
+      "author": "Vikram Goyal",
+      "price": 100,
+      "available": 53
+    },
+    {
+      "id": 16,
+      "title": "Enhancing Java Core Libraries with BeanUtils and Lang",
+      "isbn": "1932394524h-e",
+      "pageCount": 10,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal8.jpg",
+      "status": "PUBLISH",
+      "author": "Vikram Goyal",
+      "price": 100,
+      "available": 24
+    },
+    {
+      "id": 17,
+      "title": "Pool and DBCP: Creating and Using Object Pools",
+      "isbn": "1932394524i-e",
+      "pageCount": 10,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal9.jpg",
+      "status": "PUBLISH",
+      "author": "Vikram Goyal",
+      "price": 100,
+      "available": 21
+    },
+    {
+      "id": 18,
+      "title": "Metaprogramming in .NET",
+      "isbn": "1617290262",
+      "pageCount": 60,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hazzard.jpg",
+      "status": "PUBLISH",
+      "author": "Jason Bock",
+      "price": 100,
+      "available": 11
+    },
+    {
+      "id": 19,
+      "title": "MacRuby in Action",
+      "isbn": "1935182498",
+      "pageCount": 30,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lim.jpg",
+      "status": "PUBLISH",
+      "author": "Jeremy McAnally",
+      "price": 100,
+      "available": 35
+    },
+    {
+      "id": 20,
+      "title": "Effective Unit Testing",
+      "isbn": "1935182579",
+      "pageCount": 350,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/koskela2.jpg",
+      "status": "PUBLISH",
+      "author": "Lasse Koskela",
+      "price": 100,
+      "available": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "name": "librarian",
+      "email": "librarian@gmail.com",
+      "password": "librarian",
+      "role": "librarian",
+      "id": 2
+    },
+    {
+      "name": "user",
+      "email": "user@gmail.com",
+      "password": "user",
+      "role": "user",
+      "issuedBooks": [
+        {
+          "id": 2,
+          "title": "Handling Protocols with the Net Component",
+          "isbn": "1932394524c-e",
+          "pageCount": 10,
+          "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal3.jpg",
+          "status": "PUBLISH",
+          "author": "Vikram Goyal",
+          "price": 100,
+          "available": 73
+        },
+        {
+          "id": 10,
+          "title": "Working with the Logging and Discovery Components",
+          "isbn": "1932394524n-e",
+          "pageCount": 10,
+          "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal14.jpg",
+          "status": "PUBLISH",
+          "author": "Vikram Goyal",
+          "price": 100,
+          "available": 43
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "requests": []
+}

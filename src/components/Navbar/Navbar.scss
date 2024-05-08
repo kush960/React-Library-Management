@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+    background-color: #013914;
+    color: white;
+
+    .container{
+        padding: 10px;
+
+        .links{
+            display: flex;
+            gap: 24px;
+            font-weight: 500;
+            font-size: 20px;
+          
+            .link{
+                text-decoration: none;
+                color: white;
+            
+                &:hover {
+                    color: #1dbf73;
+                    cursor: pointer;
+                 }
+            }
+        }
+    }
+}

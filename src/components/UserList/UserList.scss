@@ -1,0 +1,18 @@
+.info {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.list{
+    margin-top: 40px;
+
+    table{
+        border: 1px solid green;
+
+        .actionBtns{
+            display: flex;
+            gap: 10px;
+        }
+    }
+}
+
